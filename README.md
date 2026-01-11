@@ -3,7 +3,7 @@ LSTM Text Generation using Shakespeare Dataset
 --> Project Overview
 
 This project implements a Generative AI text generation model using Long Short-Term Memory (LSTM) networks.
-The model is trained on Shakespeare’s Complete Works (public domain) to learn linguistic patterns and generate coherent text based on a given seed input.
+The model is trained on Shakespeare’s Complete Works to learn linguistic patterns and generate coherent text based on a given seed input.
 
 The project covers the entire NLP pipeline:
 
