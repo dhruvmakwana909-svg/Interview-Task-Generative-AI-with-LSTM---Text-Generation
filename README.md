@@ -38,3 +38,33 @@ Embedding Dimension: 100
 Loss Function: Categorical Crossentropy
 
 Optimizer: Adam
+
+--> Dataset Used: Shakespeare’s Complete Works
+
+--> Technologies Used
+
+Python
+
+TensorFlow / Keras
+
+NumPy
+
+--> Key Learnings
+
+LSTMs are effective for modeling long-term dependencies in text
+
+Word-level tokenization captures semantic meaning better than character-level
+
+Deeper LSTM layers improve contextual understanding
+
+Early stopping improves generalization
+
+--> Bonus Experiments
+
+Increased LSTM depth → improved grammatical flow
+
+Larger sequence length → better context retention
+
+Tested different embedding sizes
+
+
