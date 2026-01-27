@@ -67,4 +67,10 @@ Larger sequence length → better context retention
 
 Tested different embedding sizes
 
+--> Training VS Validation Loss Graph
+<img width="640" height="480" alt="Loss" src="https://github.com/user-attachments/assets/bc5573b4-db7c-4a39-b25c-03812a3468dd" />
+
+
+--> Training VS Validation Accuracy Graph
+<img width="640" height="480" alt="Accuracy" src="https://github.com/user-attachments/assets/f6aed986-ea16-4611-8787-bccfc2c2a3ec" />
 
